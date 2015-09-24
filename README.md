@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ClientSuccess/node-imap.png?label=ready&title=Ready)](https://waffle.io/ClientSuccess/node-imap)
 Description
 ===========
 
